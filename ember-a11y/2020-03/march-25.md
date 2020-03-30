@@ -28,7 +28,7 @@
 ## Resulting TODOs
 
 - [ ] Update API docs - describe using attributes
-- [ ] Update guides to give more clarity on labels
+- [ ] Update guides to give more clarity on labels [Issue #1353](https://github.com/ember-learn/guides-source/issues/1353), [Issue #1354](https://github.com/ember-learn/guides-source/issues/1354)
 - [ ] Testing - test helpers and provide an oob experience (this needs RFC) - how do we do internationalization?
 - [ ] Building ID for the current template context RFC - test out with an add-on  - Steve & heroiceric, Emmanuel, Benjamin
 - [x] Add [ember-component-patterns to an org](https://emberjs-1.gitbook.io/ember-component-patterns/) and invite interested strike team members to contribute
