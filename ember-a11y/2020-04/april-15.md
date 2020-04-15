@@ -1,8 +1,12 @@
 # A11y Strike Team Notes
 
 ## Agenda
-- https://github.com/emberjs/rfcs/issues/595
-- discussion for this week: follow up on [label discussion](https://github.com/ember-a11y/core-notes/blob/ember-a11y/ember-a11y/2020-03/march-25.md), discuss process for assigning todos
+https://github.com/emberjs/rfcs/issues/595
+- [ ] follow up on [label discussion](https://github.com/ember-a11y/core-notes/blob/ember-a11y/ember-a11y/2020-03/march-25.md)
+- [ ] discuss process for assigning todos
+- [ ] ember-a11y org
+- [ ] ember-a11y website
+- [ ] A11y Awareness Day
 
 ## Attendees (name/discord handle)
 
