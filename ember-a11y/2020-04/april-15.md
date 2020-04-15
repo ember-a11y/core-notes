@@ -10,23 +10,23 @@ https://github.com/emberjs/rfcs/issues/595
 
 ## Attendees (name/discord handle)
 
-- [ ] Melanie Sumner (Melanie#1618)
+- [x] Melanie Sumner (Melanie#1618)
 - [ ] Robert Jackson	(rwjblue)
 - [ ] Jen Weber	(jenweber)
 - [ ] Abhilash (abhilashlr)
-- [ ] Frédéric Soumare	(hakilebara)
-- [ ] Emmanuel Patrick	(the-bionic)
+- [x] Frédéric Soumare	(hakilebara)
+- [x] Emmanuel Patrick	(the-bionic)
 - [ ] Eric Kelly
-- [ ] Lennex Zinyando	(zinyando)
+- [x] Lennex Zinyando	(zinyando)
 - [ ] John Costanzo	(jrock2004#8583)
-- [ ] Rajasegar	(rajasegar)
+- [x] Rajasegar	(rajasegar)
 - [ ] Praskovia	(Praskovia#1618)
 - [ ] Seema Shariat	(seemajune)
 - [ ] Benjamin JEGARD	(@Benjamin JEGARD#7530) 
 - [ ] Steve Szczecina	(steveszc)
-- [ ] Jamie White	(jgwhite#2348)
-- [ ] Ava Gaiety Wroten (Gaiety) 
-- [ ] Joseph Sumner	(Joseph#3648)
+- [x] Jamie White	(jgwhite#2348)
+- [x] Ava Gaiety Wroten (Gaiety) 
+- [x] Joseph Sumner	(Joseph#3648)
 
 ## Discussion
 
