@@ -31,6 +31,9 @@ https://github.com/emberjs/rfcs/issues/595
 
 ## Discussion
 - Testing helper RFC- semantic test helpers - try out the addon, and look at Ken's (React) library works
+- Todo items should have people assigned to them going forward
+- If you were committed to an item but won't get to it, it's totally fine to let Mel know 
+- Contribute in the ways that interest you, reach out if you want direction or help
 
 ## Resulting TODOs
 - [ ] Melanie will follow up with Jamie on updating API docs (Mel, check for existing PR to review)
