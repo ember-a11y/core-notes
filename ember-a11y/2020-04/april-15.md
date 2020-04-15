@@ -45,8 +45,8 @@ https://github.com/emberjs/rfcs/issues/595
 - [ ] Melanie will follow up with Rob on the page title work
 
 ## Next Meeting Agenda
-We will follow up on the TODOs
-We will discuss Default Language Declaration
+- follow up on the TODOs
+- discuss Default Language Declaration ([Point #4 in RFC issue](https://github.com/emberjs/rfcs/issues/595))
 
 ------------------------------------------------
 Changes? Corrections? Please submit a PR. 
