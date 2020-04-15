@@ -43,7 +43,7 @@ https://github.com/emberjs/rfcs/issues/595
 - [ ] Reach out to semantic-test-helpers addon author to see if they are open to help with maintaining (Jamie)
 - [ ] Melanie will follow up with (team) working on current-context-id addon
 - [ ] Melanie to follow up on guides updates PRs and answer Jen's questions
-- [ ] Frederic ember-a11y.com website- think about purpose, goals, etc. (DM him on discord if you want to help)
+- [ ] Frederic ember-a11y.com website- think about purpose, goals, etc. Let group know when you are ready to propose a plan, and we'll put it on the agenda. 
 - [ ] Everyone: think about A11y awareness day- if we had one message for the community, what should it be? Also what _else_ could we do? please come prepared for next week to talk about it, or talk in the discord channel.
 - [ ] Melanie will follow up with Rob on the page title work
 
