@@ -2,7 +2,7 @@
 
 ## Agenda
 - https://github.com/emberjs/rfcs/issues/595
-- discussion for this week: labels, assigning todos
+- discussion for this week: follow up on [label discussion](https://github.com/ember-a11y/core-notes/blob/ember-a11y/ember-a11y/2020-03/march-25.md), discuss process for assigning todos
 
 ## Attendees (name/discord handle)
 
