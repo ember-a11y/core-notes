@@ -1,11 +1,9 @@
 # A11y Strike Team Notes
 
 ## Agenda
-- [ ] follow up on the TODOs
+- [x] follow up on the TODOs
 - [x] discuss Default Language Declaration ([Point #4 in RFC issue](https://github.com/emberjs/rfcs/issues/595))
-- [ ] update? ember-a11y website
-- [ ] update? id addon
-- [ ] discuss ideas for A11y Awareness Day
+- [x] update? id addon
 
 ## Attendees (name/discord handle)
 
