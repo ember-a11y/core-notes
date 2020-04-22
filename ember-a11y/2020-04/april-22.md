@@ -33,29 +33,29 @@
 - additional flags have been avoided in ember-cli due to the number of permutations we'd need to test
 - updating ember-cli tests would be useful if we were going to propose something, it's also an area where we could do some recruiting of experienced contributors
 - also discoverability of flag options is kind of hard, how could we mitigate?
--- improve the docs
--- companion app/page that showed all options, allowed the user to select options, and then generated the command line to copy/paste into the terminal (fun side project opportunity)
+- - improve the docs
+- - companion app/page that showed all options, allowed the user to select options, and then generated the command line to copy/paste into the terminal (fun side project opportunity)
 - wizard workflow
--- `ember new my-app` would not trigger the wizard
---- this would have a blank language attribute and linter rule that fails/gives a warning
---- what happens if the lang attribute is there but blank? (Mel research please)
---- if it's bad for the user we should automatically have a default
---- build failures can be a bad DX
---- on the flip side, companies who have stated a11y goals tend to break the build
--- `ember new` would trigger a wizard
--- in the wizard flow, we could have recommended defaults as the first options 
--- one of the language options could be "dynamic" or "intl" could include ember-intl?
+- - `ember new my-app` would not trigger the wizard
+- -- this would have a blank language attribute and linter rule that fails/gives a warning
+- -- what happens if the lang attribute is there but blank? (Mel research please)
+- -- if it's bad for the user we should automatically have a default
+- -- build failures can be a bad DX
+- -- on the flip side, companies who have stated a11y goals tend to break the build
+- - `ember new` would trigger a wizard
+- - in the wizard flow, we could have recommended defaults as the first options 
+- - one of the language options could be "dynamic" or "intl" could include ember-intl?
 - what's our question budget? what questions should be asked?
--- app name
--- language
--- no-welcome addon
--- yarn or npm
+- - app name
+- - language
+- - no-welcome addon
+- - yarn or npm
 - vue does something like this
--- 2 things: yarn or npm, preset (default, manual- manual gives more options to go through)
--- vue sets `lang="en"` by default (even though it's very popular in China)
+- - 2 things: yarn or npm, preset (default, manual- manual gives more options to go through)
+- - vue sets `lang="en"` by default (even though it's very popular in China)
 - developer system language? can we pull that as the default? add this to the RFC as an idea (consideration: what would this do for globally distributed developers?)
 
-Overall, generally enthusiastic support from the group for the wizard/flow idea.
+Overall, generally enthusiastic support from the group for the wizard/flow idea. A few folks were neutral.
 
 ### ID Addon work
 - how is the id addon going? 
