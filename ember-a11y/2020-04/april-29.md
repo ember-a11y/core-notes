@@ -2,7 +2,7 @@
 
 ## Agenda
 
-Mostly status updates for existing work:
+Mostly status updates for existing work (current status, next steps, any blockers)-
 
 - [ ] update: website proposal (Frédéric)
 - [ ] update: `ember-title` [addon](https://github.com/rwjblue/ember-title)
