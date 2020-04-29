@@ -5,9 +5,9 @@
 Mostly status updates for existing work:
 
 - [ ] update: website proposal (Frédéric)
-- [ ] update: ember-title addon
-- [ ] update: RFC for `lang=xx` flag
-- [ ] update: addon for `id`
+- [ ] update: `ember-title` [addon](https://github.com/rwjblue/ember-title)
+- [ ] update: RFC for `lang=xx` flag (Jamie, Ava, Joseph)
+- [ ] update: addon for `id` (Steve, Eric, Emmanuel, Benjamin)
 - [ ] help wanted: [A11y-focused rule requests in ember-template-lint](https://github.com/ember-template-lint/ember-template-lint/issues/created_by/MelSumner)
 
 
