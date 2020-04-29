@@ -61,7 +61,7 @@ Mostly status updates for existing work (current status, next steps, any blocker
 ### Global Accessibility Awareness Day
 - Third Thursday each May
 - MVP would be a blog post that outlines the benefits of Ember for a11y purposes, and highlight additional improvements coming through the strike team
-- include stats "we are the most accessible framework" and talk about why
+- include stats "we are the most accessible framework" and talk about why (see [Mel's talk with slides](https://noti.st/melsumner/Phhimm/dont-break-the-web#s2EgpQ2))
 - could we do something "event-like" and have something like office hours or virtual reviews?
 - Mel to check with Rob D to ask about the office hours app 
 - blog series for each day in May until the day of- rajasegarc will compile a list and share it in discord channel so we can decide in the next 24-48 hrs
