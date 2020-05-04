@@ -63,9 +63,9 @@ Overall, generally enthusiastic support from the group for the wizard/flow idea.
 - still need to solve the template-only component issue
 
 ## Resulting TODOs
-- [ ] work on RFC for `lang=xx` flag - Jamie, Joseph, & Ava
-- [ ] work on prototype for wizard flow - Joseph 
-- [ ] work on RFC for new ember app flow - Melanie
+- [x] work on RFC for `lang=xx` flag - Jamie, Joseph, & Ava
+- [x] work on prototype for wizard flow - Joseph 
+- [ ] work on RFC draft for new ember app flow - Melanie
 - [ ] work on ember-cli docs (this might be a stretch for this group, take to learning team)  
 
 ## Next Meeting Agenda
