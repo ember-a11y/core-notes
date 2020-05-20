@@ -45,39 +45,39 @@
 - Tweets from the EmberJS Twitter feed
 
 ### update on `--lang` flag
+
 - Code Status: https://github.com/josephdsumner/ember-cli/compare/master...josephdsumner:ember-new-lang-util#files_bucket
 - RFC draft will be ready next week(ish)
 - will add disallowed list for better clarity for developers
 - will it have a message when it fails due to incorrect value? yes, working on it
 
 ### wizard question (discussion)
+
 - how many questions do we want to ask
 - how many questions do we think devs will tolerate
 - should the questions branch based on app vs addon?
+- locks suggests we should make sure we don't duplicate effort for what Kelly Selden has recently figured out re:saving preferences for blueprints 
+- locks is available to talk shop about the wizard technical details if anyone is interested
+- recommend chatting in `#dev-ember-cli` channel on Discord 
 
-questions: 
+#### potential question list
+
 - app or addon (default is app)
 - app name? 
 - app language (for lang attribute)? (default `en`)
 - yarn or npm? (default `npm`)
-
 - welcome addon (leave as flag?)
 - typescript? (yes/no, default is `no`)
-
-- addons: which CI do you want (default is none, & we would set different files for them based on their CI-as-a-service preference. Options Travis, GitHub Actions, Circle CI, Appveyor, none) 
-- [ ] action item, Joseph - look at the survey and see what was the most popular this year
-- addons: which versions of Ember do you want to support
-
+- addons, which CI do you want (default is none, & we would set different files for them based on their CI-as-a-service preference. Options Travis, GitHub Actions, Circle CI, Appveyor, none) 
+- addons, which versions of Ember do you want to support
 - saving as preset (need to think about how we could do this) (abhilashlr will work on figuring it out)
-- locks suggests we should make sure we don't duplicate effort for what Kelly Selden has recently figured out re:saving preferences for blueprints 
-- locks is available to talk shop about the wizard technical details if anyone is interested
-- recommend chatting in #dev-ember-cli channel on Discord 
+
 
 ### ember-template-lint
 
 - overview of the addon, how to use it, things to consider when you're getting your team to use it
 - contributing: issues in repo should be good, let Mel know if you need more clarity
-- contributing opportunity: check guides and api docs to see if there are code samples that violate the rules in ember-template-lint - if you're up for more tricky work, figure out how to integrate ember-template-lint into guides/api docs
+- contributing opportunity: check guides and api docs to see if there are code samples that violate the rules in ember-template-lint & if you're up for more tricky work, figure out how to integrate ember-template-lint into guides/api docs
 - if you want to contribute, please do! check out astexplorer.net for more.
 
 ## Next Meeting Agenda
