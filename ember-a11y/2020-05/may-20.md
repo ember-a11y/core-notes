@@ -1,7 +1,7 @@
 # A11y Strike Team Notes
 
-Zoom Link: https://linkedin.zoom.us/j/954393219
-May 20, 2020 - https://meetingzone.app/utc/wednesday/1600/
+- Where: Zoom Link: https://linkedin.zoom.us/j/954393219
+- When: May 20, 2020 - https://meetingzone.app/utc/wednesday/1600/
 
 ## Agenda
 - [ ] GAAD blog post & outreach
