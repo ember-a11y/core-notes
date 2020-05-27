@@ -5,40 +5,38 @@
 
 ## Agenda
 - [ ] update on `--lang` flag work (Joseph)
-- [ ] context-id-helper, new version, still working on template-only Glimmer components (Ben)
-
-
 
 ## Attendees (name/discord handle)
 
 ### Strike Team
 
-- [ ] Melanie Sumner (Melanie#1618)
-- [ ] Robert Jackson (rwjblue)
+- [x] Melanie Sumner (Melanie#1618)
+- [x] Robert Jackson (rwjblue)
+- [x] Joseph Sumner	(Joseph#3648)
+- [x] Rajasegar	(rajasegar)
+- [x] Abhilash (abhilashlr)
+- [x] Praskovia	(Praskovia#1618)
+- [x] Ricardo Mendes (locks)
 - [ ] Amy Lam (amyrlam) 
 - [ ] Jamie White	(jgwhite#2348)
 - [ ] Ava Gaiety Wroten (Gaiety) 
-- [ ] Joseph Sumner	(Joseph#3648)
-- [ ] Rajasegar	(rajasegar)
-- [ ] Abhilash (abhilashlr)
 - [ ] Frédéric Soumare	(hakilebara)
 - [ ] Emmanuel Patrick	(the-bionic)
 - [ ] Eric Kelly
 - [ ] Lennex Zinyando	(zinyando)
 - [ ] John Costanzo	(jrock2004#8583)
-- [ ] Praskovia	(Praskovia#1618)
 - [ ] Seema Shariat	(seemajune)
 - [ ] Benjamin JEGARD	(@Benjamin JEGARD#7530) 
 - [ ] Steve Szczecina	(steveszc)
-- [ ] Ricardo Mendes (locks)
-- [ ] Lenora Porter
 
 ## Discussion Notes
+Reviewed draft RFC and code related to proposed implementation.
 
-
+Moved agenda items to next week for folks who were scheduled to present but unable to make it today.
 
 ## Next Meeting Agenda
 - [ ] review progress on the website (Frederic)
+- [ ] context-id-helper, new version, still working on template-only Glimmer components (Ben)
 
 
 ------------------------------------------------
