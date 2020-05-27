@@ -34,7 +34,7 @@
 - [x] Ricardo Mendes (locks)
 
 ## Discussion Notes
-Reviewed draft RFC and code related to proposed implementation.
+Reviewed [draft RFC](https://github.com/sharpshark28/rfcs/blob/ember-new-lang/text/0000-ember-new-lang.md) and [candidate implementation](https://github.com/josephdsumner/ember-cli/compare/master...ember-new-lang-base) related to proposed change.
 
 Moved agenda items to next week for folks who were scheduled to present but unable to make it today.
 
