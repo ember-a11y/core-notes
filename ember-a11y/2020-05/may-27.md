@@ -5,7 +5,6 @@
 
 ## Agenda
 - [ ] update on `--lang` flag work (Joseph)
-- [ ] review progress on the website (Frederic)
 - [ ] context-id-helper, new version, still working on template-only Glimmer components (Ben)
 
 
@@ -39,7 +38,7 @@
 
 
 ## Next Meeting Agenda
-
+- [ ] review progress on the website (Frederic)
 
 
 ------------------------------------------------
