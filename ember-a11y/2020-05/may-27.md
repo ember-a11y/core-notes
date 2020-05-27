@@ -4,7 +4,9 @@
 - When: May 20, 2020 - https://meetingzone.app/utc/wednesday/1600/
 
 ## Agenda
-- [ ] update on `--lang` flag work (Joseph)
+- [x] update on `--lang` flag work (Joseph)
+- [ ] review progress on the website (Frederic) (moved to next week)
+- [ ] context-id-helper, new version, still working on template-only Glimmer components (Ben) (moved to next week)
 
 ## Attendees (name/discord handle)
 
@@ -16,7 +18,6 @@
 - [x] Rajasegar	(rajasegar)
 - [x] Abhilash (abhilashlr)
 - [x] Praskovia	(Praskovia#1618)
-- [x] Ricardo Mendes (locks)
 - [ ] Amy Lam (amyrlam) 
 - [ ] Jamie White	(jgwhite#2348)
 - [ ] Ava Gaiety Wroten (Gaiety) 
@@ -28,6 +29,9 @@
 - [ ] Seema Shariat	(seemajune)
 - [ ] Benjamin JEGARD	(@Benjamin JEGARD#7530) 
 - [ ] Steve Szczecina	(steveszc)
+
+### Guests
+- [x] Ricardo Mendes (locks)
 
 ## Discussion Notes
 Reviewed draft RFC and code related to proposed implementation.
