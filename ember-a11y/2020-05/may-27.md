@@ -41,15 +41,15 @@ Candidate Implementation:
 - [ ] change agnostic default value from empty string to undefined
 - [ ] add tests - index-test.html
 - [ ] fixture tests; entire file
-- [ ] add ts js etc cases, check misuse before validation
-- [ ] tidy up implementation for HTML flag
+- [x] add ts js etc cases, check misuse before validation
+- [x] tidy up implementation for HTML flag
 
 RFC Draft:
-- [ ] include references for global digital a11y requirements
+- [x] include references for global digital a11y requirements
 - [x] include super rentals update in "how we teach this" 
-- [ ] add examples of what happens if it's done incorrectly (extract high-level prose from RFC issue details)
+- [x] add examples of what happens if it's done incorrectly (extract high-level prose from RFC issue details)
 - [x] move `lang` up to design since it's not an unresolved question but rather a design choice
-- [ ] improve "how we teach this" with content for the CLI guides (basically should be an MVP for a CLI guides PR)
+- [x] improve "how we teach this" with content for the CLI guides (basically should be an MVP for a CLI guides PR)
 - [ ] add the technical details from candidate implementation along with prose, into the detailed design section (don't just link to it)
 
 After the RFC is submitted, a draft PR can be submitted to ember-cli for further review.
