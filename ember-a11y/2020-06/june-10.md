@@ -4,7 +4,6 @@
 - When: June 3, 2020 - https://meetingzone.app/utc/wednesday/1600/
 
 ## Agenda
-- [ ] update on `--lang` flag RFC- leave comments!
 - [ ] PR alert - [Adding hooks to allow adding work start/end of test helpers](https://github.com/emberjs/ember-test-helpers/pull/878)
 - [ ] Discussion - [Wizard draft RFC](https://gist.github.com/MelSumner/df8f0bedd3725935089f8a74258d1346)
 - [ ] remaining todo's, review any blockers, etc.
