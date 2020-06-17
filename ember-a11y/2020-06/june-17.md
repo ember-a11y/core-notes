@@ -8,7 +8,7 @@
 - [x] TODO: Write up guidance for inputs and labels (blog post?)
 - [x] TODO: RFC to add `ember-page-title` to blueprint
 - [x] TODO: write up issue re: `...attributes`
-- [ ] Discussion: Working Group
+- [x] Discussion: Working Group
 
 ## Attendees (name/discord handle)
 
