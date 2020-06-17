@@ -4,35 +4,59 @@
 - When: June 17, 2020 - https://meetingzone.app/utc/wednesday/1600/
 
 ## Agenda
-- [ ] RFC for interactive way to create new apps is submitted: https://github.com/emberjs/rfcs/pull/638 
-- [ ] TODO: Write up guidance for inputs and labels (blog post?)
-- [ ] TODO: RFC to add `ember-page-title` to blueprint
-- [ ] TODO: write up issue re: `...attributes`
+- [x] RFC for interactive way to create new apps is submitted: https://github.com/emberjs/rfcs/pull/638 
+- [x] TODO: Write up guidance for inputs and labels (blog post?)
+- [x] TODO: RFC to add `ember-page-title` to blueprint
+- [x] TODO: write up issue re: `...attributes`
 - [ ] Discussion: Working Group
 
 ## Attendees (name/discord handle)
 
-- [ ] Melanie Sumner (Melanie#1618)
+- [x] Melanie Sumner (Melanie#1618)
 - [ ] Robert Jackson (rwjblue)
-- [ ] Joseph Sumner	(Joseph#3648)
-- [ ] Rajasegar	(rajasegar)
-- [ ] Abhilash (abhilashlr)
+- [x] Joseph Sumner	(Joseph#3648)
+- [x] Rajasegar	(rajasegar)
+- [x] Abhilash (abhilashlr)
 - [ ] Praskovia	(Praskovia#1618)
 - [ ] Amy Lam (amyrlam) 
-- [ ] Jamie White	(jgwhite#2348)
-- [ ] Ava Gaiety Wroten (Gaiety) 
+- [x] Jamie White	(jgwhite#2348)
+- [x] Ava Gaiety Wroten (Gaiety) 
 - [ ] Frédéric Soumare	(hakilebara)
 - [ ] Emmanuel Patrick	(the-bionic)
 - [ ] Eric Kelly
 - [ ] Lennex Zinyando	(zinyando)
 - [ ] John Costanzo	(jrock2004#8583)
 - [ ] Seema Shariat	(seemajune)
-- [ ] Benjamin JEGARD	(@Benjamin JEGARD#7530) 
+- [x] Benjamin JEGARD	(@Benjamin JEGARD#7530) 
 - [ ] Steve Szczecina	(steveszc)
 - [ ] Ricardo Mendes (locks)
-- [ ] Lenora Porter 
+- [x] Lenora Porter 
 
 ## Discussion Notes
+- article re: inputs and labels
+  - addon (ember-context-id-helper)
+  - ember-component-pattern reference
+  - ember-template-lint rule
+  - maybe? reference the PR on the test helpers repo (check with Rob & Steve Calvert) 
+  - Jamie and Joseph will work on the article to ship by the end of June, Ben will help review.
+- RFC to add `ember-page-title` to the default blueprint; if anyone can work on it, let Mel know.
+- Issue re: `...attributes` - Mel will do this.
+- Working Group for Digital Accessibility: Yes!
+
+Working Group possible TODO list: 
+- maintain addons in ember-a11y org (also add a separate org in NPM)
+- review addons for viability
+- what rules can we add to ember-template-lint specifically related to a11y?
+- ensuring that RFCs consider digital accessibility
+- update/expand accessible component patterns to [ember-component-patterns](https://emberjs-1.gitbook.io/ember-component-patterns/)
+- make sure that the guides are accessible themselves and also contain best practices for accessibility
+- audit Ember websites and provide feedback to the website working group
+- blog posts that provide practical advice for making existing apps accessible
+- audit to gather existing accessibility guidance
+- work with Ember Times group to get articles included
+- Lenora will explore - Ember Accessibility YouTube videos?
+- Ava & Lenora will do some brainstorming re: graphics and illustrations and ideas forward
+- idea: use Super rentals as an example to show how an Ember app can be used with a screen reader
 
 
 ## Next Meeting Agenda
