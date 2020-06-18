@@ -39,9 +39,9 @@
   - ember-template-lint rule
   - maybe? reference the PR on the test helpers repo (check with Rob & Steve Calvert) 
   - Jamie and Joseph will work on the article to ship by the end of June, Ben will help review.
-- RFC to add `ember-page-title` to the default blueprint; if anyone can work on it, let Mel know.
+- RFC to add `ember-page-title` to the default blueprint- Ben will work on it and others will help review.
 - Issue re: `...attributes` - Mel will do this.
-- Working Group for Digital Accessibility: Yes!
+- Working Group for Digital Accessibility: We will form a working group. Initial members (Ben, Joseph, Ava, Lenora, Jamie, Rajasegar, Abhilash & Melanie) will be added to the ember-a11y org and next steps will be to define goals, responsibilities, etc.)
 
 Working Group possible TODO list: 
 - maintain addons in ember-a11y org (also add a separate org in NPM)
@@ -57,7 +57,6 @@ Working Group possible TODO list:
 - Lenora will explore - Ember Accessibility YouTube videos?
 - Ava & Lenora will do some brainstorming re: graphics and illustrations and ideas forward
 - idea: use Super rentals as an example to show how an Ember app can be used with a screen reader
-
 
 ## Next Meeting Agenda
 Wrap up the strike team and talk about any next steps. 
