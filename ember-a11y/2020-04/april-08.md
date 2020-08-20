@@ -12,8 +12,8 @@
 - [x] Abhilash (abhilashlr)
 - [x] Frédéric Soumare	(hakilebara)
 - [x] Emmanuel Patrick	(the-bionic)
-- [x] Eric Kelly
-- [x] Lennex Zinyando	(zinyando)
+- [x] Eric Kelly (heroiceric)
+- [x] Lennex Zinyando (zinyando)
 - [ ] John Costanzo	(jrock2004#8583)
 - [ ] Rajasegar	(rajasegar)
 - [x] Praskovia	(Praskovia#1618)
