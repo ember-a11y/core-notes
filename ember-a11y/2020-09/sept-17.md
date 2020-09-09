@@ -5,6 +5,7 @@
 - Discord channel: #dev-ember-a11y
 
 ## Agenda
+- [ ] what day/time works for everyone?
 - [ ] update on active RFCs
 - [ ] ember-a11y org/repo maintenance plans
 - [ ] working on new linting rules
