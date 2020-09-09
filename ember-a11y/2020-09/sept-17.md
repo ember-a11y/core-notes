@@ -1,6 +1,6 @@
 # A11y Working Group Notes
 
-- Where: Zoom Link: https://linkedin.zoom.us/j/99486993411?pwd=TG96UFlKeGZxQldveW5kQlJRQmVYUT09
+- Where: Zoom [Link](https://linkedin.zoom.us/j/99486993411?pwd=TG96UFlKeGZxQldveW5kQlJRQmVYUT09)
 - When: September 17, 2020 - https://meetingzone.app/utc/thursday/1800/
 - Discord channel: #dev-ember-a11y
 
